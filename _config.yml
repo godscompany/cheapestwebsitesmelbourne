@@ -1,6 +1,6 @@
 # Site settings
 title: Cheapest Websites Melbourne
-email: moderator.godscompany@gmail.com
+email: admin@50bucks.info
 phone: (03) 9005 5647
 url: http://cheapestwebsitesmelbourne.50bucks.info
 description: "Affordable web site design from $50 with flexibility to update your content any time,  servicing Melbourne, Adelaide, Sydney, Perth and Brisbane."
@@ -18,13 +18,35 @@ social:
 #  - title: twitter
 #    url: https://twitter.com/SBootstrap
   - title: facebook
-    url: https://www.facebook.com/pages/Chepeast-Websites-Melbourne/984371685029881
+    url: https://www.facebook.com/pages/Cheapest-Websites-Melbourne/984371685029881
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
 #  - title: bitbucket
 #    url: http://bitbucket.org/jekyll
 #  - title: github
 #    url: https://github.com/IronSummitMedia/startbootstrap
+
+nav:
+   - title: About
+     url: "#about"
+   - title: Order
+     url: "#download"
+   - title: Contact
+     url: "#contact"
+
+form:
+   - type: text
+     name: Name
+     size: 40
+     maxlength: 250
+   - type: text
+     name: Email
+     size: 40
+     maxlength: 250
+   - type: text
+     name: Phone
+     size: 40
+     maxlength: 250
 
 # Build settings
 markdown: kramdown

@@ -17,15 +17,11 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
+                    {% for network in site.nav %}
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a class="page-scroll" href="{{ network.url }}">{{ network.title }}</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#download">Order</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
+                    {% endfor %}
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

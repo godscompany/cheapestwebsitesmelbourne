@@ -1,9 +1,10 @@
 # Site settings
-title: Cheapest Websites Melbourne
-email: admin@50bucks.info
+title: Web Designers in Melbourne - Cheap Website Design From Only $50
+email: admin@cheapestwebsitesmelbourne.com.au
 phone: (03) 9005 5647
-url: http://cheapestwebsitesmelbourne.50bucks.info
-description: "Affordable web site design from $50 with flexibility to update your content any time,  servicing Melbourne, Adelaide, Sydney, Perth and Brisbane."
+url: http://cheapestwebsitesmelbourne.com.au
+description: "The leading, innovative, cheapest and best Mobile Friendly Web Design company based in Melbourne Australia. Creating unique websites for leading businesses."
+keywords: "Affordable website design in Australia, economical website, fast website, html5 design, budget website, cheap website designer, mobile friendly website, melbourne"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -11,7 +12,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: cheapestwebsitesmelbourne.50bucks.info
+footer: Cheapest Websites Melbourne powered by <a href="http://50bucks.info">50bucks.info</a>
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -27,11 +28,17 @@ social:
 #    url: https://github.com/IronSummitMedia/startbootstrap
 
 nav:
-   - title: About
+   - title: "Who We Are"
      url: "#about"
-   - title: Order
+   - title: "What We Offer"
+     url: "#quality"
+   - title: "Why Us" 
+     url: "#whyus"
+   - title: "How to Order"
      url: "#download"
-   - title: Contact
+   - title: "Ask Questions"
+     url: "#faq"
+   - title: "Get in Touch"
      url: "#contact"
 
 form:

@@ -1,13 +1,17 @@
-Grayscale Jekyll theme
-=========================
+Welcome to Cheapest Websites Melbourne
+=====================================
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+You hunt for website designer ends here [Cheapest Websites Melbourne ](http://cheapestwebsitesmelbourne.com.au)
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+## Changes
+08-06-2015
+- Logo created and added.
+- Logo generated [favicon-generator](http://www.favicon-generator.org/).
+- Added modularity in head, meta, format & favicon.
+- Added source file for logo.
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
+![screenshot](http://cheapestwebsitesmelbourne.50bucks.info/docs/screenshot.png)
 
 =========
-For more details, read the [documentation](http://jekyllrb.com/)
+For more details, read the [50bucks.info](http://50bucks.info)

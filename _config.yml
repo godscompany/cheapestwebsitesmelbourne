@@ -13,7 +13,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Cheapest Websites Melbourne powered by <a href="http://50bucks.info">50bucks.info</a>
+footer: Cheapest Websites Melbourne powered by <a href="http://cheapestwebsitesmelbourne.com.au">CWM</a>
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -37,7 +37,7 @@ nav:
      url: "#whyus"
    - title: "How to Order"
      url: "#download"
-   - title: "Ask Questions"
+   - title: "Questions"
      url: "#faq"
    - title: "Get in Touch"
      url: "#contact"
@@ -55,6 +55,23 @@ form:
      name: Phone
      size: 40
      maxlength: 250
+
+  # Settings for analytics helper
+  # Set 'provider' to the analytics provider you want to use.
+  # Set 'provider' to false to turn analytics off globally.
+  #
+analytics :
+    provider : google
+    google :
+        tracking_id : 'UA-63832785-1'
+    getclicky :
+      site_id :
+    mixpanel :
+        token : '_MIXPANEL_TOKEN_'
+    piwik :
+        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
+        idsite : '1'                   # the id of the site on Piwik
+
 
 # Build settings
 markdown: kramdown

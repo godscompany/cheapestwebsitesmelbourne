@@ -1,8 +1,6 @@
 # Site settings
 title: Web Designers in Melbourne - Cheap Website Design From Only $50
 favicon-dir: favicon
-email: admin@cheapestwebsitesmelbourne.com.au
-phone: (03) 9005 5647
 url: http://cheapestwebsitesmelbourne.com.au
 description: "The leading, innovative, cheapest and best Mobile Friendly Web Design company based in Melbourne Australia. Creating unique websites for leading businesses."
 keywords: "Affordable website design in Australia, economical website, fast website, html5 design, budget website, cheap website designer, mobile friendly website, melbourne"
@@ -75,4 +73,7 @@ analytics :
 
 # Build settings
 markdown: kramdown
+
 permalink: pretty
+email: admin@cheapestwebsitesmelbourne.com.au
+phone: (03) 9005 5647

@@ -17,14 +17,18 @@ footer: Cheapest Websites Melbourne powered by <a href="http://cheapestwebsitesm
 social:
 #  - title: twitter
 #    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url: https://www.facebook.com/messages/984371685029881
+   - title: facebook
+     name: 
+     url: https://www.facebook.com/messages/984371685029881
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
 #  - title: bitbucket
 #    url: http://bitbucket.org/jekyll
 #  - title: github
 #    url: https://github.com/IronSummitMedia/startbootstrap
+   - title: envelope-o
+     name: 
+     url: mailto:sales@cheapestwebsitesmelbourne.com.au
 
 nav:
    - title: "Who We Are"
@@ -75,5 +79,4 @@ analytics :
 markdown: kramdown
 
 permalink: pretty
-email: admin@cheapestwebsitesmelbourne.com.au
 phone: (03) 9005 5647

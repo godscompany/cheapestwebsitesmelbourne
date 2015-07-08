@@ -23,7 +23,7 @@
 
 {% endcomment %}
 
-{% assign is_production = false %}
+{% assign is_production = true %}
 {% assign jb_prod_env = "development" %}
 
 {% if jekyll.environment != "development" %}

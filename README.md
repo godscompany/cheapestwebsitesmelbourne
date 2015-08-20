@@ -11,7 +11,7 @@ You hunt for website designer ends here [Cheapest Websites Melbourne ](http://ch
 - Added source file for logo.
 
 ## Screenshot
-![screenshot](http://cheapestwebsitesmelbourne.50bucks.info/docs/screenshot.png)
+![screenshot](http://cheapestwebsitesmelbourne.com.au/docs/screenshot.png)
 
 =========
 For more details, read the [50bucks.info](http://50bucks.info)
